@@ -20,5 +20,5 @@ I add a bubble effect with CSS too.
 
 ## What kind of improvement can you add ?
 <hr>
-- make it more responsive small devices<br>
+- make it more responsive for small devices<br>
 - there 's a sidebar menu, but she's not effective for now. I 'd like to make it effective even if there's no real menu. I will juste leave the social media button.
